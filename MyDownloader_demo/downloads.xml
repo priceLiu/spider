@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfDownloadItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DownloadItem lf="\/" segCnt="1" dt="2013-08-01T14:26:03.8137551+08:00">
+    <rl>
+      <URL>http://www.cn100.com</URL>
+      <Authenticate>false</Authenticate>
+      <Login />
+      <Password />
+      <ProtocolProviderType>MyDownloader.Extension.Protocols.HttpProtocolProvider, MyDownloader.Extension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ProtocolProviderType>
+    </rl>
+    <mirrors />
+    <remoteInfo>
+      <MimeType>text/html; charset=UTF-8</MimeType>
+      <AcceptRanges>true</AcceptRanges>
+      <FileSize>159416</FileSize>
+      <LastModified>2013-08-01T12:07:34+08:00</LastModified>
+    </remoteInfo>
+    <Segments />
+    <extendedProperties />
+  </DownloadItem>
+</ArrayOfDownloadItem>
